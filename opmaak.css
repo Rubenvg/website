@@ -1,0 +1,26 @@
+header {background-color: #0D56A6;}
+body {background-color: #4186D3;}
+.l1 {background-color: #4186D3;}
+.l1 {padding : 4px;}
+.l2 {background-color: #689AD3;}
+.l2 {padding : 4px;}
+.t {font-size : 50px;}
+.s {font-weight:bold;}
+.b {font-size:35px;}
+.b {color: #04356C;}
+.b {font-weight:bold;}
+mark {background-color: #0D56A6;}
+mark {color: white;}
+mark {font-weight: bold;}
+mark {font-style:italic;}
+a:link {color: #04356C;}
+a:visited {color: #04356C;}
+a:hover {color: white;}
+a:active {color: red;}
+img {position:absolute;
+left:620px;
+border:8px solid #0D56A6;
+background-color:#0D56A6;
+border-radius: 25px;}
+article { float: both;
+width: 600px;}
